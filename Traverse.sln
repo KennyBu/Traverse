@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraverseTests", "TraverseTests\TraverseTests.csproj", "{41879092-0C2C-474E-991F-6B68FC9149EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3AE10E35-7E81-4098-8AB9-9AD8C56065BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraverseConsoleApplication", "TraveseConsoleApplication\TraverseConsoleApplication.csproj", "{A72D6099-A6E5-4E9C-8FD3-93567E699459}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{BC94C99B-8364-4A42-B858-5B33D0A27A91}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41879092-0C2C-474E-991F-6B68FC9149EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41879092-0C2C-474E-991F-6B68FC9149EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41879092-0C2C-474E-991F-6B68FC9149EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41879092-0C2C-474E-991F-6B68FC9149EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72D6099-A6E5-4E9C-8FD3-93567E699459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72D6099-A6E5-4E9C-8FD3-93567E699459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72D6099-A6E5-4E9C-8FD3-93567E699459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72D6099-A6E5-4E9C-8FD3-93567E699459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

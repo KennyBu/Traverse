@@ -1,0 +1,18 @@
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\TraverseTests\bin\Debug\TraverseTests.dll
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\TraverseTests\bin\Debug\TraverseTests.pdb
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\TraverseTests\obj\Debug\TraverseTests.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\TraverseTests\obj\Debug\TraverseTests.dll
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\TraverseTests\obj\Debug\TraverseTests.pdb
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\TraverseTests\bin\Debug\Moq.dll
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\TraverseTests\bin\Debug\TraverseConsoleApplication.exe
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\TraverseTests\bin\Debug\TraverseConsoleApplication.pdb
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\TraverseTests\bin\Debug\Moq.xml
+C:\Users\Ken\Documents\GitHub\Traverse\TraverseTests\bin\Debug\TraverseTests.dll
+C:\Users\Ken\Documents\GitHub\Traverse\TraverseTests\bin\Debug\TraverseTests.pdb
+C:\Users\Ken\Documents\GitHub\Traverse\TraverseTests\bin\Debug\Moq.dll
+C:\Users\Ken\Documents\GitHub\Traverse\TraverseTests\bin\Debug\TraverseConsoleApplication.exe
+C:\Users\Ken\Documents\GitHub\Traverse\TraverseTests\bin\Debug\TraverseConsoleApplication.pdb
+C:\Users\Ken\Documents\GitHub\Traverse\TraverseTests\bin\Debug\Moq.xml
+C:\Users\Ken\Documents\GitHub\Traverse\TraverseTests\obj\Debug\TraverseTests.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\GitHub\Traverse\TraverseTests\obj\Debug\TraverseTests.dll
+C:\Users\Ken\Documents\GitHub\Traverse\TraverseTests\obj\Debug\TraverseTests.pdb

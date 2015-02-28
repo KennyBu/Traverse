@@ -1,0 +1,16 @@
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\TraverseConsoleApplication.exe.config
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\TraverseConsoleApplication.exe
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\TraverseConsoleApplication.pdb
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\TraverseConsoleApplication.exe
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\TraverseConsoleApplication.pdb
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\TraverseConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\TraveseConsoleApplication\bin\Debug\TraverseConsoleApplication.exe.config
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\TraveseConsoleApplication\bin\Debug\TraverseConsoleApplication.exe
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\TraveseConsoleApplication\bin\Debug\TraverseConsoleApplication.pdb
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\TraveseConsoleApplication\obj\Debug\TraverseConsoleApplication.exe
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\ConsoleApplication3\TraveseConsoleApplication\obj\Debug\TraverseConsoleApplication.pdb
+C:\Users\Ken\Documents\GitHub\Traverse\TraveseConsoleApplication\bin\Debug\TraverseConsoleApplication.exe.config
+C:\Users\Ken\Documents\GitHub\Traverse\TraveseConsoleApplication\bin\Debug\TraverseConsoleApplication.exe
+C:\Users\Ken\Documents\GitHub\Traverse\TraveseConsoleApplication\bin\Debug\TraverseConsoleApplication.pdb
+C:\Users\Ken\Documents\GitHub\Traverse\TraveseConsoleApplication\obj\Debug\TraverseConsoleApplication.exe
+C:\Users\Ken\Documents\GitHub\Traverse\TraveseConsoleApplication\obj\Debug\TraverseConsoleApplication.pdb
