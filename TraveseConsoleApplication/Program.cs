@@ -20,7 +20,7 @@ namespace ConsoleApplication
 
                 if (!files.Any())
                 {
-                    Console.WriteLine("I'm sorry no files where found.");
+                    Console.WriteLine("I'm sorry no files were found.");
                 }
                 
                 foreach (var file in files)
